@@ -134,7 +134,7 @@ require([
           axis: "all",
           stops: [
             { value: 4.5, size: 20000, label: "<15%" },
-            { value: 7, size: 250000, label: "25%" }
+            { value: 7, size: 50000, label: "25%" }
           ]
         },
         {
